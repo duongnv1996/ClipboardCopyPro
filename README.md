@@ -1,0 +1,2 @@
+# ClipboardCopyPro
+ClipboardCopy version VIP
